@@ -1,0 +1,6 @@
+*.o
+*.o.tmp
+zipzip
+zipzip_debug
+*.dSYM/
+.DS_Store
